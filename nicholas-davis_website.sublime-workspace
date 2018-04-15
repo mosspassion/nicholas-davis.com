@@ -1,0 +1,1023 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"rot",
+				"maxRotateSpeed"
+			],
+			[
+				"rotate",
+				"rotateSpeed"
+			],
+			[
+				"conte",
+				"contentText"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"background",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 3132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "performance.html",
+			"settings":
+			{
+				"buffer_size": 10008,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sound.html",
+			"settings":
+			{
+				"buffer_size": 2816,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "video.html",
+			"settings":
+			{
+				"buffer_size": 3198,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "shimmer.js",
+			"settings":
+			{
+				"buffer_size": 842,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 1373,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"syntax m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"set javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set ja",
+				"Set Syntax: Java"
+			],
+			[
+				"set bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"clean",
+				"CleanCSS: Clean current file"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax: ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"clea",
+				"CleanCSS: Clean current file"
+			],
+			[
+				"cleann",
+				"CleanCSS: Clean current file"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"",
+				"Set Syntax: HTML (Erlang)"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis.com/css/styles.css",
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis.com/shimmer.js",
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis.com/bio.html",
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis.com/index.html",
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis.com/splash.html",
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis.com/readme.html",
+		"/Users/nicholasdavis/Desktop/Elastic.mdown",
+		"/Users/nicholasdavis/Desktop/drequanEmail.mdown",
+		"/Users/nicholasdavis/Desktop/talEmail.mdown",
+		"/Users/nicholasdavis/Library/Application Support/Steam/steamapps/common/Starbound/assets/unpacked/items/armors/decorative/hats/mechpilot/mechpilot.head",
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis.com/nicholas-davis_website.sublime-project",
+		"/Volumes/USB DISK/JEFFKOLAR/css/styles.css",
+		"/Volumes/USB DISK/JEFFKOLAR/JEFFKOLAR.html",
+		"/Volumes/USB DISK/JEFFKOLAR/bio.html",
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis.com/nicholas-davis_website.sublime-workspace",
+		"/Users/nicholasdavis/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/nicholasdavis/Documents/Programming/ml4music-workshop/BDB_chatWords.txt",
+		"/Users/nicholasdavis/Desktop/2017-05-01_pwnbrewNotes",
+		"/Users/nicholasdavis/Desktop/JEFF KOLAR.html",
+		"/Users/nicholasdavis/Documents/Programming/neural-style/kaleidML.sh",
+		"/Users/nicholasdavis/Documents/Programming/neural-style/neural-style_derp.sh",
+		"/Users/nicholasdavis/Documents/SAIC/Thesis Performance/BFA_PerformanceFestival_2017_critPanel_Notes.txt",
+		"/Users/nicholasdavis/Documents/Programming/deep-photo-styletransfer/makefile",
+		"/Users/nicholasdavis/Documents/Programming/neural-style/semaphorRecoveryKey.txt",
+		"/Users/nicholasdavis/Desktop/torchInstallLog.txt",
+		"/Users/nicholasdavis/Desktop/Intro_For_MCs_Ellvis.txt",
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis.com/news.html",
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis.com/video.html",
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis.com/sound.html",
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis.com/performance.html",
+		"/Users/nicholasdavis/Documents/ArtistWebsiteDocs/nicholas-davis-site/performance.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/nicholas-davis-site/cv.html",
+		"/Users/nicholasdavis/Documents/Arduino/libraries/SFEMP3Shield/SFEMP3Shieldmainpage.h",
+		"/Users/nicholasdavis/Documents/Arduino/libraries/SFEMP3Shield/SFEMP3Shield.h",
+		"/Users/nicholasdavis/Documents/Arduino/libraries/SFEMP3Shield/SFEMP3ShieldConfig.h",
+		"/Users/nicholasdavis/Documents/Arduino/libraries/SFEMP3Shield/SFEMP3Shield.cpp",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/DFTI_example_html_website/index.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/DFTI_example_html_website/myCool.css",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/website/css/style.css",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/tablesExample/css/styles.css",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/tablesExample/index.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/exampleWebsite/index.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/exampleWebsite/css/styles.css",
+		"/Users/nicholasdavis/Downloads/tt/README",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Deleuze/playlist.m3u",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/website/index.html",
+		"/Users/nicholasdavis/Desktop/glitch-canvas-master/ImageGlitchTool_nick.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Max Independent Study - Shawn Decker/Bract/readme.md",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Deleuze/w14_notes.txt",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Advanced UG Projects ATS/final_documentation.md",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/ChrisCollins_Day.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/css-template-test/index.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/css-template-test/css/styles.css",
+		"/Users/nicholasdavis/Documents/Programming/of_v0.9.2_osx_release/addons/ofxTSNE/example-images/bin/mp4/ffmp4scale.sh",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/generatingLinks.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/explodingSpans.js",
+		"/Users/nicholasdavis/Documents/Programming/of_v0.9.2_osx_release/addons/ofxTSNE/setup_ccv.sh",
+		"/Users/nicholasdavis/Documents/Programming/of_v0.9.2_osx_release/addons/ofxTSNE/example-images/bin/mp4/ffBatch.sh",
+		"/Users/nicholasdavis/Desktop/ellobuttontest.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Deleuze/w09_notes.txt",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Deleuze/w07_notes.txt",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Deleuze/w06_notes.txt",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Deleuze/w04_notes.txt",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Deleuze/w03_notes.txt",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Deleuze/w02_notes.txt",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Deleuze/midterm_rough.txt",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Deleuze/w08_notes.txt",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/website/members.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/website/js/jquery.js",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/website/events.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/website/music.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/website/photos.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/example websites/TAYLOR EFFIN CLEVELAND.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/example websites/Anthony Amoroso.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/example websites/Anthony Amoroso_files/style.css",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/example websites/Anthony Amoroso_files/ga.js",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/example websites/TAYLOR EFFIN CLEVELAND_files/style.css",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/example websites/Anthony Amoroso_files/jquery.js",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/BedroomPunk/example websites/Anthony Amoroso_files/grow2.js",
+		"/Users/nicholasdavis/Desktop/Anthony Amoroso.html",
+		"/Users/nicholasdavis/Desktop/Anthony Amoroso_files/style.css",
+		"/Users/nicholasdavis/Desktop/Anthony Amoroso_files/grow2.js",
+		"/Users/nicholasdavis/Desktop/Anthony Amoroso_files/ga.js",
+		"/Users/nicholasdavis/Desktop/var4.js",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/blankWebsiteTemplate/index.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/blankWebsiteTemplate/css/styles.css",
+		"/Users/nicholasdavis/Documents/Programming/of_v0.9.0_osx_release/addons/ofxImageSegmentation/example-ImageSegmentation/addons.make",
+		"/Users/nicholasdavis/Desktop/godRepresented_ideas.txt",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/questionnaire_web",
+		"/Users/nicholasdavis/Library/Application Support/Sublime Text 2/Packages/User/html/favicon.sublime-snippet",
+		"/Users/nicholasdavis/Documents/SAIC/2016Spring/Net Art && Cultures/exampleWebsite/exampleWebsite.sublime-project",
+		"/Users/nicholasdavis/Documents/SAIC/2016 Spring/Net Art && Cultures/exampleWebsite/index.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016 Spring/Net Art && Cultures/exampleWebsite/styles.css",
+		"/Users/nicholasdavis/Documents/SAIC/2016 Spring/Net Art && Cultures/exampleWebsite/exampleWebsite.sublime-project",
+		"/Users/nicholasdavis/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/nicholasdavis/Documents/SAIC/2016 Spring/Net Art && Cultures/questionnaire_web",
+		"/Users/nicholasdavis/Documents/SAIC/2016 Spring/Net Art && Cultures/w01_notes.txt",
+		"/Users/nicholasdavis/Documents/SAIC/2016 Spring/Advanced UG Projects ATS/Advanced Project Proposal.txt",
+		"/Users/nicholasdavis/Documents/SAIC/2016 Spring/Net Art && Cultures/DFTI_example_html_website/index.html",
+		"/Users/nicholasdavis/Documents/SAIC/2016 Spring/Net Art && Cultures/DFTI_example_html_website/myCool.css",
+		"/Users/nicholasdavis/Documents/SAIC/2016 Spring/Net Art && Cultures/mywebsite/index.html",
+		"/Users/nicholasdavis/Desktop/index.html",
+		"/Users/nicholasdavis/Desktop/music/glacier_mixdown.json",
+		"/Users/nicholasdavis/Documents/SAIC/2016 Spring/Net Art && Cultures/mywebsite/test.rtf"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"60",
+			"half",
+			"tedd",
+			"Rebecca Elliott",
+			"Outside Forces",
+			"Teddy Rankin-Parker",
+			"Becky Grajeda",
+			"Meekling Press",
+			"TriTriangle",
+			"Natalie Chami",
+			"TalSounds",
+			"Natalie Chami",
+			"Notes + Bolts",
+			"L'éternèbre",
+			"L'eternebre",
+			"isPlaying",
+			"loop",
+			"mp4",
+			"mov",
+			"moment",
+			"hirschorn",
+			"hue",
+			"rhy",
+			"dele",
+			"mouse",
+			"next",
+			"content",
+			"span",
+			"css",
+			"$(",
+			"$",
+			"mouse",
+			"capitol",
+			"struct",
+			"shut",
+			"hey",
+			"\">",
+			"dude",
+			"class",
+			"p",
+			"	<",
+			"\n	",
+			"this",
+			"hey\nhey",
+			"p",
+			"hello"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a href=\"http://rebaelliott.com\">Rebecca Elliott</a>",
+			"<a href=\"http://teddyrp.com\">Teddy Rankin-Parker</a>",
+			"<a href=\"http://beckygrajeda.com\">Becky Grajeda</a>",
+			"<a href=\"http://meeklingpress.com/\">Meekling Press</a>",
+			"<a href=\"http://talsounds.com/\">TALsounds</a>",
+			"<a href=\"http://talsounds.com/\">Natlie Chami</a>",
+			"<a href=\"www.notesandbolts.net\">Notes + Bolts</a>",
+			"<a href=\"http://leternebre.com/about\">L'éternèbre</a>",
+			"L'éternèbre",
+			"mov",
+			"mp4",
+			"Hirschhorn"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								957,
+								957
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "contact.html",
+					"settings":
+					{
+						"buffer_size": 3132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2958,
+								2958
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "performance.html",
+					"settings":
+					{
+						"buffer_size": 10008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								948,
+								948
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sound.html",
+					"settings":
+					{
+						"buffer_size": 2816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								952,
+								952
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "video.html",
+					"settings":
+					{
+						"buffer_size": 3198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1008,
+								1008
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "shimmer.js",
+					"settings":
+					{
+						"buffer_size": 842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/styles.css",
+					"settings":
+					{
+						"buffer_size": 1373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

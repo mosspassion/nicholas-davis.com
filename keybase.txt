@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/mosspassion
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nicholas-davis.com
+  * I am mosspassion (https://keybase.io/mosspassion) on keybase.
+  * I have a public key ASBGr4YqV_M1gc8DW8xXwalS7CHbMralhJi9EYP0Bvr6hwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012046af862a57f33581cf035bcc57c1a952ec21db32b6a58498bd1183f406fafa870a",
+            "host": "keybase.io",
+            "kid": "012046af862a57f33581cf035bcc57c1a952ec21db32b6a58498bd1183f406fafa870a",
+            "uid": "7d3ab1a10c6fd44adff1f326cbdb2719",
+            "username": "mosspassion"
+        },
+        "service": {
+            "hostname": "nicholas-davis.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1492806507,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1492806494,
+        "hash": "e21b39f84ca24cb79e49aecae76fee7ef1427b5b931503b2f91e4169c65dee19b8e22210acf55faaceead1042a603e6c029ae8696eb2bed43b345c6cc6e3f96a",
+        "seqno": 1032196
+    },
+    "prev": "6483ef196f7deff1755351f2d1e6578d423bd9b1da220d3ee83cdba8b0c33db3",
+    "seqno": 24,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRq+GKlfzNYHPA1vMV8GpUuwh2zK2pYSYvRGD9Ab6+ocKp3BheWxvYWTFAv57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDZhZjg2MmE1N2YzMzU4MWNmMDM1YmNjNTdjMWE5NTJlYzIxZGIzMmI2YTU4NDk4YmQxMTgzZjQwNmZhZmE4NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDZhZjg2MmE1N2YzMzU4MWNmMDM1YmNjNTdjMWE5NTJlYzIxZGIzMmI2YTU4NDk4YmQxMTgzZjQwNmZhZmE4NzBhIiwidWlkIjoiN2QzYWIxYTEwYzZmZDQ0YWRmZjFmMzI2Y2JkYjI3MTkiLCJ1c2VybmFtZSI6Im1vc3NwYXNzaW9uIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJuaWNob2xhcy1kYXZpcy5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIxIn0sImN0aW1lIjoxNDkyODA2NTA3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTI4MDY0OTQsImhhc2giOiJlMjFiMzlmODRjYTI0Y2I3OWU0OWFlY2FlNzZmZWU3ZWYxNDI3YjViOTMxNTAzYjJmOTFlNDE2OWM2NWRlZTE5YjhlMjIyMTBhY2Y1NWZhYWNlZWFkMTA0MmE2MDNlNmMwMjlhZTg2OTZlYjJiZWQ0M2IzNDVjNmNjNmUzZjk2YSIsInNlcW5vIjoxMDMyMTk2fSwicHJldiI6IjY0ODNlZjE5NmY3ZGVmZjE3NTUzNTFmMmQxZTY1NzhkNDIzYmQ5YjFkYTIyMGQzZWU4M2NkYmE4YjBjMzNkYjMiLCJzZXFubyI6MjQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA3YNCnZvJy8Fa0KhJnefP1RQgajrxm3UGI6UIjEmP5Lr/SXLMZGU9mSPzPajnoNEgJNc55N+9LUsEifDzDOu0B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP7EdpmuAkQoF/EvuyA+kXVHx4FzdrrjZlW9LDsZUkjjo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mosspassion
+
+==================================================================

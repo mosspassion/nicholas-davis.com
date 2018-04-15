@@ -1,0 +1,98 @@
+body{
+	font-family: arial;
+	font-size: 13px;
+}
+
+a{
+	font-size: 13px;
+	text-decoration: none;
+	color: black;
+}
+
+img{
+	width: 100%;
+}
+
+.icon{
+	width: 32px;
+}
+
+.img{
+	font-size: 13px;
+	text-align: center;
+}
+
+/*a:hover{
+	color: blue;
+}*/
+
+*, *:before, *:after{
+  box-sizing: border-box;
+}
+
+.container{
+	width: 90%;
+	margin: 0 auto;
+	max-width: 1000px;
+	/*  border: 1px solid red;*/
+	padding: 10px;
+}
+
+.column{
+/*  border: 1px solid blue;*/
+	padding: 5px;
+}
+
+.column.sixth{
+	text-align: center;
+}
+
+.column.full{
+	text-align: left;
+	background: #e6e6e6;
+	min-height: 400px;
+	padding: 10%;
+	/*border: 1px solid blue;*/
+
+}
+
+.column.half{
+	text-align: left;
+	background: #e6e6e6;
+	min-height: 270px;
+}
+
+.widget{
+	text-align: center;
+}
+
+.column.footer{
+	text-align: left;
+	text-align: center;
+	font-size: 8px;
+	}
+
+@media (min-width: 640px){
+	.column{
+		float: left;
+		}
+
+	.column.full{ width: 100%; }
+	.column.footer{ width: 100%; }
+	.column.half{ width: 50%; }
+	.column.third{ width: 33.33%; }
+	.column.fourth{ width: 25%; }
+	.column.sixth{ width: 16.66%; }
+	}
+
+.column.full iframe{ /* this is stupid solution for responsive iframe; CANT FIGURE OUT HOW TO KEEP ASPECT RATIO */
+	width: 100%;
+	height: 56%;
+}
+
+/* ----- Clearfix by Nicolas Gallagher ----- */
+.clearfix:before,
+.clearfix:after { content: " "; display: table;}
+.clearfix:after { clear: both; }
+.clearfix { *zoom: 1; }	
+	
